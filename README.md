@@ -1,0 +1,2 @@
+# sovark
+Sovellusarkkitehtuurit kurssin esimerkki
